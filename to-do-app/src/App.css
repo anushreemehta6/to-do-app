@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.box{
+    display: flex;
+    gap: 5px;
+    
+}

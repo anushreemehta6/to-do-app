@@ -1,0 +1,32 @@
+
+.box{
+    background-color: rgb(14, 36, 47);
+}
+.logo{
+    display: flex;
+    font-size: 50px;
+    width: 22rem;
+    border: #b9e8dc solid 2px;
+    border-radius: 10px;
+    height: 8rem;
+    gap: 20px;
+    align-items: center;
+    background: #8AD0BE;
+}
+.grid{
+     border: #b9e8dc solid 2px;
+    border-radius: 10px;
+    background: #8AD0BE;
+    width: 22rem;
+    height: 90%;
+    font-size: x-large;
+}
+
+.container{
+    /* background: #8AD0BE; */
+    width: 22rem;
+    height: 44em;
+    display: flex;
+    flex-direction: column;
+     gap: 10px;
+}
