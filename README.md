@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/your-username/noted.git
 
 # 2. Navigate to the project directory
-cd noted
+cd to-do-app
 
 # 3. Install dependencies
 npm install
